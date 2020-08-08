@@ -248,4 +248,7 @@ body {
     .rightt {
         top: 20%;
     }
+    .body {
+	overflow-x: hidden !important;
+    }
 }
